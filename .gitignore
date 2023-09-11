@@ -1,0 +1,4 @@
+api/__pycache__
+restaurant_finder/__pycache__
+staticfiles
+db.sqlite3
