@@ -152,7 +152,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # CORS settings
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-    "http://127.0.0.1:3000"
+    "http://localhost:3100",
+    "http://localhost:3006",
+    "http://127.0.0.1:3006",
+    "http://127.0.0.1:3100",
+    "https://travel-advisor.p.rapidapi.com",
 ]
-
